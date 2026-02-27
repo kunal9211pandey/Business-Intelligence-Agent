@@ -128,5 +128,9 @@ Deal_funnel_Data.xlsx         source data
 
 <img width="1766" height="737" alt="Screenshot 2026-02-27 144350" src="https://github.com/user-attachments/assets/8348e9b0-bee0-4955-8028-61834adc74f3" />
 
+---
+
+### Note: This project is deployed using free-tier services due to cost constraints. All APIs (Groq and monday.com) are trial/free-plan credentials created only for evaluation purposes. In a production environment, these secrets would be managed securely using environment variables or a dedicated secret management system instead of being hardcoded.
+
 
 
