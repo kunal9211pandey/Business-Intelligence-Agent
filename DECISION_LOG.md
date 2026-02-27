@@ -59,3 +59,17 @@ The app is deployed on Streamlit Community Cloud. It connects to a public GitHub
 API keys are embedded directly in the code per the assignment requirement. In production these would be moved to environment variables.
 
 ---
+
+### Note on API Usage and Deployment Constraints
+
+This prototype was developed under limited time and cost constraints. Due to the need for a fully functional live demonstration and the absence of a paid hosting or secret-management environment, the required API credentials are temporarily included in the application configuration.
+
+All APIs used in this project operate under **free-tier / trial access**, including:
+
+* Groq LLM API (free trial)
+* monday.com developer workspace (free plan)
+
+These credentials are **non-production, limited-scope keys** created only for evaluation purposes. They do not provide access to any sensitive or commercial data.
+
+In a production environment, all secrets would be securely managed using environment variables or a secret management service instead of being stored in the source code.
+
