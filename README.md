@@ -122,3 +122,10 @@ Deal_funnel_Data.xlsx         source data
 - Show accounts receivable breakdown by sector
 - Which work orders are stuck or on hold?
 - Compare pipeline value against executed work order value
+
+## Input/Output Sample
+<img width="1810" height="807" alt="Screenshot 2026-02-27 131009" src="https://github.com/user-attachments/assets/09b6e8ee-17cb-4351-b8cf-8c95bc0837c4" />
+
+<img width="1870" height="672" alt="Screenshot 2026-02-27 124221" src="https://github.com/user-attachments/assets/4a1fdd1f-68f3-497e-872b-1b0380deb7e0" />
+
+
